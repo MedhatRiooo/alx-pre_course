@@ -1,0 +1,4 @@
+git pull
+cd root
+touch up_to_date
+vim up_to_date
